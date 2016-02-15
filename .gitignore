@@ -17,3 +17,6 @@ build/
 tests/report/
 *.pyc
 db.sqlite3
+/static
+.DS_STORE
+venv
